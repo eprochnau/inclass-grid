@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.grid {
+	border: 1px solid red;
+}
+
+.unit {
+	background-color: #fff;
+	float: left;
+	width: 33.3333%;
+}
+
+.unit-2-3 {
+	width: 66.6666%;
+}
+
+.gutter {
+	padding-left: 0.75rem;
+	padding right: 0.75rem;
+}
